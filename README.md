@@ -3,8 +3,9 @@
 
 Q: Construct a 3D home and apply translation, rotatin and scaling transformations interactively. (use keyboard keys to transform)
 You will use OPENGL and GLUT library.
-3.3-)ÖlçeklendirmeVideo Link
+Video Link
 https://www.youtube.com/watch?v=wD9bmU6UqM0
+
 Kullanım Açıklamaları 
 Kodumu ubuntu işletim sistemi üzerinden makefile kullanarak yaptım. Terminalde make ile beraber 
 compile ve run işlemi gerçekleşiyor.
